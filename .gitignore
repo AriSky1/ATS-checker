@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Ignore PDF files
+*.pdf
+
+# Optional: Ignore __pycache__ and other typical Python folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
